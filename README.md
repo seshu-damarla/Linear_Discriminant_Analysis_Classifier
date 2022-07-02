@@ -1,0 +1,2 @@
+# Linear_Discriminant_Analysis_Classifier
+Linear Discriminant Analysis for Multi-class Classificaiton
